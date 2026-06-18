@@ -1,0 +1,1 @@
+# Go-Price-Estimator\n\n## Overview\nEnterprise-grade price estimator implementation in Go.\n\n## Quick Start (1-Click Build)\n\n```bash\ngit clone https://github.com/skylerblue333/Go-Price-Estimator.git\ncd Go-Price-Estimator\n# Build instructions depend on the language\n```\n
