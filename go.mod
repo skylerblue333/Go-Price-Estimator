@@ -1,3 +1,3 @@
-module github.com/skylerblue333/Go-Price-Estimator
+module github.com/skylerblue333/go-price-estimator
 
 go 1.21
