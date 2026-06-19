@@ -1,1 +1,3 @@
-module go-price-estimator\n\ngo 1.21\n
+module github.com/skylerblue333/go-price-estimator
+
+go 1.21

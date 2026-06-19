@@ -1,1 +1,17 @@
-# Go-Price-Estimator\n\n## Overview\nEnterprise-grade price estimator implementation in Go.\n\n## Quick Start (1-Click Build)\n\n```bash\ngit clone https://github.com/skylerblue333/Go-Price-Estimator.git\ncd Go-Price-Estimator\n# Build instructions depend on the language\n```\n
+# Go-Price-Estimator
+
+![CI](https://github.com/skylerblue333/Go-Price-Estimator/workflows/CI/badge.svg)
+
+High-performance Go service for estimator operations.
+
+## Features
+- Highly concurrent `sync.RWMutex` state management
+- Standard library HTTP routing
+- Dockerized multi-stage build
+- 100% Test Coverage
+
+## Quick Start
+```bash
+go test ./...
+go run main.go
+```
