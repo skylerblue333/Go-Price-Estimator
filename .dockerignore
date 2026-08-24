@@ -1,0 +1,6 @@
+.git
+.github
+*.md
+*.json
+.gitignore
+main_test.go
