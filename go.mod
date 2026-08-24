@@ -1,3 +1,3 @@
 module github.com/skylerblue333/go-price-estimator
 
-go 1.23
+go 1.26
